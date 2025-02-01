@@ -1,4 +1,3 @@
-<style> @import "https://enemyatgates.github.io/hosting/CG%2BJOPLINSTYLEUSER_%7B00%7D.css" </style>
 * * *
 # Hello, I'm enemyatgates! 👋
 
