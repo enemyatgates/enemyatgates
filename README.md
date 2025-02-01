@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 
 - 🌱 I’m currently learning new technologies and improving my skills in software development.
 - 💬 Ask me about anything related to Python, JavaScript, or web development.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [email](103676605+enemyatgates@users.noreply.github.com)
 - ⚡ Fun fact: I love problem-solving and participating in coding challenges.
 
 ## 🛠️ Technologies & Tools
