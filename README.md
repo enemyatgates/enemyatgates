@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer always looking to learn
 
 ## 🌟 Projects
 
-Here are some of my favorite projects:
+Here are some of my favorite projects: (Update Pending)
 
 - [Project 1](https://github.com/enemyatgates/project1) - A brief description of Project 1.
 - [Project 2](https://github.com/enemyatgates/project2) - A brief description of Project 2.
