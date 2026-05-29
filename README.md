@@ -134,13 +134,13 @@ Designing frameworks that integrate:
 
 ## Languages
 
-- Python (Intermediate)
-- JavaScript (Intermediate)
-- Bash
-- PowerShell
-- SQL *(Placeholder)*
-- HTML *(Placeholder)*
-- CSS *(Placeholder)*
+- Bash *(Battleground)*
+- PowerShell *(Battleground)*
+- Python *(Intermediate)*
+- JavaScript *(Intermediate)*
+- SQL *(Basics)*
+- HTML *(Intermediate)*
+- CSS *(Intermediate)*
 
 ---
 
@@ -151,7 +151,10 @@ Designing frameworks that integrate:
 - GitHub
 - GitHub Pages
 - Hugo
-- Marp
+- Astro
+- Tina
+- Vercel
+- Netlify
 
 ---
 
@@ -161,25 +164,31 @@ Designing frameworks that integrate:
 
 - Git
 - GitHub
-- Visual Studio Code *(Placeholder)*
-- Android Studio (Beginner)
+- Visual Studio Code *(Intermediate)*
+- Android Studio *(Basics)*
 
 ### Knowledge Management
 
 - Joplin
 - Markdown
+- Notion
 
 ### Presentation & Publishing
 
 - Marp CLI
 - Hugo
+- Astro
 - GitHub Pages
+- Vercel
+- Netlify
 
 ### Productivity
 
-- [Placeholder]
-- [Placeholder]
-- [Placeholder]
+- Microsoft To-Do
+- Toggl
+- Slack
+- Zapier
+- Asana
 
 ---
 
@@ -204,7 +213,7 @@ I frequently employ:
 
 ---
 
-## Ytsief Ventures
+## The Secret Ventures
 
 The central command structure for my entrepreneurial and intellectual ecosystem.
 
@@ -238,7 +247,7 @@ In Development
 
 ---
 
-## Project Black Rose
+## Black Rose
 
 A long-term framework focused on resilience, capability development, strategic thinking, and personal transformation.
 
@@ -255,7 +264,7 @@ In Development
 
 ---
 
-## Bengaluru Mobility Project
+## Mobility OS
 
 A systems-driven approach to addressing urban mobility and traffic challenges.
 
@@ -272,7 +281,7 @@ Research & Development
 
 ---
 
-## Conversations in Solitude
+<!-- ## Conversations in Solitude
 
 A reflective series exploring philosophy, identity, meaning, and modern existence.
 
@@ -291,6 +300,8 @@ A strategic and civilisational thought experiment exploring the future possibili
 Research & Writing
 
 ---
+
+-->
 
 ## The Oracle's Dilemma
 
@@ -318,6 +329,12 @@ Status: In Development
 
 ---
 
+### The Last Bastard Standing
+
+Status: In Development
+
+<!--
+
 ### Lessons from Bhagvat Gita: Life and Corporate
 
 Status: In Development
@@ -330,13 +347,15 @@ Status: In Development
 
 ---
 
+-->
+
 ## Essays
 
-- Conversations with Madhav
-- Whiskey with Madhav
-- The Last Bastard
+- Almost is Rot
 - The Doomed Carnival
-- [Additional Essays Placeholder]
+- Curiosity and Creativity
+- Seventh Thinking Hat
+- Desert's Call at Dawn
 
 ---
 
@@ -389,11 +408,11 @@ Technology amplifies intent.
 
 # Experience
 
-## Founder
+## The Perpetual Apprentice
 
-**Ytsief Ventures**
+**The Secret Ventures**
 
-*Dates: [Placeholder]*
+*Dates: 2026-*
 
 Responsibilities:
 
@@ -407,9 +426,9 @@ Responsibilities:
 
 ## Consultant
 
-*Organisation: [Placeholder]*
+*Organisation: Solopreneur*
 
-*Dates: [Placeholder]*
+*Dates: 2016-*
 
 Responsibilities:
 
@@ -422,37 +441,43 @@ Responsibilities:
 
 ## Additional Experience
 
-### [Role]
+### Marketing
 
-**[Organisation]**
+**Bharat Petroleum Corporation Limited**
 
-- Achievement
-- Achievement
-- Achievement
+- Targets
+- Initiatives
+- Execution
 
 ---
 
-# Education
+# Education [Formal]
 
-## Degree
+## Post Graduate Diploma in Management [Systems and Marketing]
 
-**[Institution]**
+**Institute of Management Technology**
 
-Year: [Placeholder]
+Year: 2003
 
 ---
 
 ## Certifications
 
-- [Certification Placeholder]
-- [Certification Placeholder]
-- [Certification Placeholder]
+- Artificial Intelligence
+- Marketing
+- Systems
 
 ---
 
 # Speaking & Thought Leadership
 
-Topics I enjoy discussing:
+## Lectures and Talks
+
+- The Sacred Ground of Zero
+- Conviction and Certain Death
+- The Man in Making
+
+## Topics [Enjoy Discussing]
 
 - Artificial Intelligence
 - Entrepreneurship
@@ -481,27 +506,27 @@ At any given time, I am usually exploring:
 
 ## Website
 
-- https://[placeholder]
+- [Profile](https://github.com/enemyatgates/enemyatgates)
 
 ## GitHub
 
-- https://github.com/enemyatgates
+- [GitHub](https://github.com/enemyatgates)
 
 ## LinkedIn
 
-- https://linkedin.com/in/[placeholder]
+- [LinkedIn](https://linkedin.com/in/thorian)
 
 ## X
 
-- https://x.com/[placeholder]
+- [X](https://x.com/thorianvc)
 
 ## Instagram
 
-- https://instagram.com/[placeholder]
+- [Instagram](https://instagram.com/Thorian.VikasChandra)
 
 ## Email
 
-- [placeholder@example.com]
+- [Email](enemy.at.gates@gmail.com)
 
 ---
 
@@ -570,4 +595,4 @@ feel free to reach out.
 
 ---
 
-*"Most people collect information. I prefer collecting lenses through which reality becomes easier to understand."*
+*"Prefer collecting lenses through which reality becomes easier to understand."*
