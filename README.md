@@ -111,6 +111,49 @@ I am equally comfortable discussing:
 - History
 - Future Studies
 
+```mermaid
+flowchart LR
+	subgraph S1[" "]
+		M1(["<b>A Marketeer</b><br><i>Turning attention into action in an age of overload.</i>"])
+		M2(["<b>A Data Scientist</b><br><i>Making sense of chaos to unlock precision growth.</i>"])
+		M3(["<b>A Consultant</b><br><i>Solving high-stakes problems before they become fires.</i>"])
+		M4(["<b>A Technologist</b><br><i>Building with code, thinking in systems, scaling with intent.</i>"])
+		M5(["<b>An Influencer</b><br><i>Shaping conversations that drive actual outcomes.</i>"])
+		M6(["<b>An Entrepreneur</b><br><i>Moving from zero to traction when others freeze at uncertainty.</i>"])
+	end
+	subgraph S2[" "]
+		N1["<b>A Thinker</b><br><i>Questioning the obvious, chasing the overlooked.</i>"]
+		N2["<b>A Builder</b><br><i>Laying bricks for things that outlive the hype cycle.</i>"]
+		N3["<b>A Disruptor</b><br><i>Quiet in posture, loud in impact.</i>"]
+	end
+	subgraph S3[" "]
+		D["It’s the operating principle behind everything I do.<br><br><br>It means thinking beyond the playbook, questioning tired assumptions, and building systems, stories, and startups that don’t just compete – they redefine."]
+	end
+	A(("<b>I've been...</b>"))
+	A --> M1 & M2 & M3 & M4 & M5 & M6
+	B(("<b>Now...</b>"))
+	M1 --> B
+	M2 --> B
+	M3 --> B
+	M4 --> B
+	M5 --> B
+	M6 --> B
+	B --> N1 & N2 & N3
+	C["<b>Thought and Transformation</b>"]
+	N1 --> C
+	N2 --> C
+	N3 --> C
+	C --> D
+	
+	N1@{shape: hex}
+	N2@{shape: hex}
+	N3@{shape: hex}
+	C@{shape: diam}
+	style A stroke:#000000,color:#000000,fill:#FFD600,stroke-width:4px,stroke-dasharray: 0
+	style B stroke:#000000,color:#000000,fill:#FFD600,stroke-width:4px,stroke-dasharray: 0
+	style C stroke:#000000,color:#000000,fill:#FFD600,stroke-width:4px,stroke-dasharray: 0
+```
+
 ---
 
 # Professional Summary
@@ -672,3 +715,5 @@ feel free to reach out.
 ---
 
 *"Prefer collecting lenses through which reality becomes easier to understand."*
+
+<img width="4096" height="4096" alt="the helm" src="https://github.com/user-attachments/assets/776c0bdd-2aa0-4ab2-8afc-8aacd1f5a8be" />
