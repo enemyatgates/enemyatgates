@@ -6,6 +6,10 @@
 
 ---
 
+${toc}
+
+---
+
 ## Who Am I?
 
 I am a multidisciplinary thinker operating at the intersection of technology, philosophy, business, strategy, data science, storytelling, and human transformation.
