@@ -1,5 +1,7 @@
 # Vikas Chandra Thorian
 
+## The Perpetual Apprentice
+
 > Thought and Transformation.
 >
 > Entrepreneur. Consultant. Technologist. Writer. Researcher. Builder of systems, ideas, and futures.
